@@ -1,0 +1,4 @@
+lis=['dk','vp','sri','revi']
+for i in lis:
+    print(i)
+    
